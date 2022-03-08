@@ -1,0 +1,9 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
+# SITE CONFIGURATION
+
+url: "https://github.gatech.edu/pages/jsun353/CS4641_ml.github.io/"
+title: [CS 4641 Project]
+description: [Diabetic Retinopathy]
